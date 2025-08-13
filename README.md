@@ -14,6 +14,6 @@ LinkedIn: https://www.linkedin.com/in/abhishek-deshmukh-a53982261/
 
 GitHub: https://github.com/abhi190201 
 
-Portfolio: https://dabhishek641.type.link/
+Portfolio: https://dabhishek641.type.link/abhishek-deshmukh
 
 ⚡ Fun fact: I can speak four languages — English, Hindi, Marathi, and Japanese!
