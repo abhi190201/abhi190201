@@ -9,7 +9,7 @@
 
 Email: dabhishek641@gmail.com
 
-LinkedIn: Abhishek Deshmukh
+LinkedIn: https://www.linkedin.com/in/abhishek-deshmukh-a53982261/
 
 GitHub: https://github.com/abhi190201
 
