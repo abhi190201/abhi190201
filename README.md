@@ -1,4 +1,5 @@
-👋 Hi, I’m @abhi190201
+ Hi, I’m @abhi190201
+
 👀 I’m interested in Software Development, Data Analytics, and Cloud Computing.
 
 🌱 I’m currently learning advanced Web Development, Data Science, and Cloud Deployment (AWS).
@@ -7,15 +8,12 @@
 
 📫 How to reach me:
 
-Email: dabhishek641@gmail.com
+Email: dabhishek641@gmail.com 
 
-LinkedIn: https://www.linkedin.com/in/abhishek-deshmukh-a53982261/
+LinkedIn: https://www.linkedin.com/in/abhishek-deshmukh-a53982261/ 
 
-GitHub: https://github.com/abhi190201
+GitHub: https://github.com/abhi190201 
 
 Portfolio: https://dabhishek641.type.link/
 
-😄 Pronouns: He/Him
-
-⚡ Fun fact: I can speak four languages — English, Marathi, Hindi, and Japanese!
-
+⚡ Fun fact: I can speak four languages — English, Hindi, Marathi, and Japanese!
