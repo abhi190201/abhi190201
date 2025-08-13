@@ -11,7 +11,7 @@ Email: dabhishek641@gmail.com
 
 LinkedIn: Abhishek Deshmukh
 
-GitHub: @abhi190201
+GitHub: https://github.com/abhi190201
 
 Portfolio: type.link/dabhishek641
 
