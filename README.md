@@ -13,7 +13,7 @@ LinkedIn: https://www.linkedin.com/in/abhishek-deshmukh-a53982261/
 
 GitHub: https://github.com/abhi190201
 
-Portfolio: type.link/dabhishek641
+Portfolio: https://dabhishek641.type.link/
 
 😄 Pronouns: He/Him
 
