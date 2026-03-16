@@ -1,21 +1,90 @@
- Hi, I’m @abhi190201 👋
+# Hi, I'm Abhishek Deshmukh 👋
 
-📊 Data Analytics Enthusiast | Software Developer passionate about turning data into insights and building scalable, efficient applications.
+### 📊 Data Analyst | ☁️ Cloud & Data Enthusiast
 
-👀 I’m interested in Data Analytics, Business Intelligence, Software Development, and Cloud Computing.
+Welcome to my GitHub profile!
 
-🌱 I’m currently learning advanced Data Analytics & Data Science, Web Development, and Cloud Deployment using AWS.
+I am passionate about transforming **data into meaningful insights** and helping organizations make **data-driven decisions**. I enjoy working with **data analytics, business intelligence, and visualization tools** to analyze trends and solve real-world problems.
 
-💞️ I’m looking to collaborate on data analytics dashboards, data-driven projects, open-source contributions, and full-stack applications.
+---
 
-📫 How to reach me:
+## 🚀 About Me
 
-📧 Email: dabhishek641@gmail.com
+* 📊 Data Analytics Enthusiast with strong interest in **Business Intelligence & Data Visualization**
+* 📈 Passionate about **data-driven decision making**
+* 🧠 Skilled in **data cleaning, analysis, and dashboard creation**
+* ☁️ Interested in **Cloud technologies for data analytics**
 
-💼 LinkedIn: https://www.linkedin.com/in/abhishek-deshmukh-a53982261/
+---
 
-🧑‍💻 GitHub: https://github.com/abhi190201
+## 🌱 Currently Learning
 
-🌐 Portfolio: https://dabhishek641.type.link/abhishek-deshmukh
+* Advanced **Data Analytics & Data Science**
+* **Data Visualization & Dashboarding**
+* **Cloud Deployment using AWS**
+* **Machine Learning fundamentals**
 
-⚡ Fun fact: I can speak four languages — English, Hindi, Marathi, and Japanese
+---
+
+## 💼 Tech Stack
+
+**Languages**
+
+* Python
+* SQL
+
+**Data Analytics**
+
+* Excel
+* Power BI
+* Data Cleaning
+* Data Visualization
+* Data Modeling
+
+**Database**
+
+* MySQL
+* MongoDB
+
+**Tools & Platforms**
+
+* Git & GitHub
+* AWS
+* Docker
+
+---
+
+## 🤝 Collaboration
+
+I’m open to collaborating on:
+
+* 📊 Data Analytics Dashboards
+* 📈 Data Visualization Projects
+* 🧠 Data-Driven Research Projects
+* 🔓 Open Source Data Projects
+
+---
+
+## 📫 Connect With Me
+
+📧 Email: **[dabhishek641@gmail.com](mailto:dabhishek641@gmail.com)**
+
+💼 LinkedIn
+https://www.linkedin.com/in/abhishek-deshmukh-a53982261/
+
+🧑‍💻 GitHub
+https://github.com/abhi190201
+
+🌐 Portfolio
+https://github.com/abhi190201/Abhishek-Deshmukh-Data-Analyst-Portfolio
+
+---
+
+## ⚡ Fun Fact
+
+I can speak **four languages**:
+🇬🇧 English | 🇮🇳 Hindi | 🇮🇳 Marathi | 🇯🇵 Japanese
+
+---
+
+⭐ *Always curious to learn new technologies and explore data-driven insights.*
