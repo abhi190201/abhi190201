@@ -76,7 +76,7 @@ https://www.linkedin.com/in/abhishek-deshmukh-a53982261/
 https://github.com/abhi190201
 
 🌐 Portfolio
-https://github.com/abhi190201/Abhishek-Deshmukh-Data-Analyst-Portfolio
+ https://abhishek-deshmukh-data-analyst-portfolios.lovable.app
 
 ---
 
